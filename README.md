@@ -2,11 +2,11 @@
 
 # Learners Guild Team Guide
 
-At Learners Guild we’re working to build a purpose driven organization. That’s an easy thing to want and say, but it’s difficult to practice. It takes active effort to articulate our guiding principles, and our values, and to express them day to day.
+At Learners Guild, we’re working to build a purpose driven organization. That’s an easy thing to want and say, but it’s difficult to practice. It takes active effort to articulate our guiding principles, and our values, and to express them day to day.
 
 This repository contains all our agreements, policies, operating models, values and guiding principles. It is meant to be a living and dynamic support of the way we are working together. It’s certainly not perfect, but we think it’s an exciting place to start.
 
-All feedback and suggestions (especially in the form of pull requests) are very appreciated. This is a work in progress that we hope will get better with more time and more contributors.
+All feedback and suggestions (especially in the form of pull requests) are very appreciated. This is a work in progress that we hope will get better with more time and more contributors. 
 
 Shereef Bishay
 GCC Lead Link
@@ -65,7 +65,7 @@ Learners Guild
 
 # Acknowledgements
 
-A large chunk of this Guide was forked from Clef's excellent [Partner Handbook](https://github.com/clef/handbook)
-Holacracy pages and how-tos was forked from the excellent folks at [DevBootcamp](https://github.com/Devbootcamp/Holacracy/wiki)
+A large amount of this Guide was forked from Clef's excellent: [Partner Handbook](https://github.com/clef/handbook)
+Holacracy pages and how-tos was forked from the excellent folks at: [DevBootcamp](https://github.com/Devbootcamp/Holacracy/wiki)
 
-Feel free to fork this repository and use any or all of these policies, and to modify them in whatever way makes sense for your company. We hope that by publishing them, other companies can benefit from our efforts (and Clef's)
+Feel free to fork this repository and use any or all of these policies, and to modify them in whatever way makes sense for your company. We hope that by publishing them, other companies can benefit from our efforts (and Clef's)!
